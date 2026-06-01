@@ -1470,7 +1470,7 @@ window.RECIPES = [
     difficulty: "Medium",
     servings: 4,
     spiceLevel: 3,
-    cover: "https://i.ibb.co/Ps9DrMQ8/300.jpg",
+    cover: "https://i.ibb.co/RTTjfhvK/77094b36acaf2edd4777d29abfc9b2f93801932d.webp",
     coverAlt: "A bowl of dan dan noodles — wheat noodles piled over a glossy red chilli-sesame sauce, topped with crisped ground pork, crushed peanuts and sliced scallion green.",
     metaTitle: "Dan Dan Noodles — Real Sichuan Dry-Style, from a Chef",
     metaDescription:
@@ -1577,7 +1577,7 @@ window.RECIPES = [
     difficulty: "Medium",
     servings: 2,
     spiceLevel: 3,
-    cover: "https://i.ibb.co/Ps9DrMQ8/300.jpg",
+    cover: "https://i.ibb.co/bjkxPJYH/u-625470900-310604276-fm-3074-app-3074-f-JPEG.jpg",
     coverAlt: "Cumin lamb in a wok — dark-seared lamb slices coated in whole crushed cumin and red chilli flakes, scattered with onion wedges, scallion greens and cilantro.",
     metaTitle: "Cumin Lamb — Real Xinjiang Stir-Fry, from a Chef",
     metaDescription:
