@@ -90,6 +90,10 @@ function pageHtml(opts) {
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&display=swap" />
   <link rel="stylesheet" href="/assets/style.css" />
+
+  <!-- Google AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4960598831473161"
+       crossorigin="anonymous"></script>
 </head>
 <body>
   <main id="app"></main>
